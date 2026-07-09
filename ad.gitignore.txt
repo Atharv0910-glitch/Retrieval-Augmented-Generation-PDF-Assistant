@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.env
+chroma_db/
+vectorstore/
+*.db
+*.sqlite3
+.ipynb_checkpoints/
